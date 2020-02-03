@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "io.spring.demo.issuesdashboard.GithubProperties",
+      "name": "github",
+      "type": "io.spring.demo.issuesdashboard.GithubProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "io.spring.demo.issuesdashboard.GithubProperties",
+      "name": "github.token",
+      "description": "Github private access token \"user:token\"",
+      "type": "java.lang.String"
+    }
+  ]
+}

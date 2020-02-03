@@ -1,0 +1,16 @@
+io/spring/demo/issuesdashboard/events/GithubProjectRepository.class
+io/spring/demo/issuesdashboard/github/Actor.class
+META-INF/spring-configuration-metadata.json
+io/spring/demo/issuesdashboard/actuator/GithubApiHealthIndicator.class
+io/spring/demo/issuesdashboard/IssuesDashboardApplication.class
+io/spring/demo/issuesdashboard/events/EventsController.class
+io/spring/demo/issuesdashboard/events/GithubProject.class
+io/spring/demo/issuesdashboard/github/RepositoryEvent.class
+io/spring/demo/issuesdashboard/GithubProperties.class
+io/spring/demo/issuesdashboard/events/DashboardEntry.class
+io/spring/demo/issuesdashboard/github/GithubClient.class
+io/spring/demo/issuesdashboard/github/GithubClient$GithubAppTokenInterceptor.class
+io/spring/demo/issuesdashboard/github/Issue.class
+io/spring/demo/issuesdashboard/WebSecurityConfig.class
+io/spring/demo/issuesdashboard/github/RepositoryEvent$Type.class
+io/spring/demo/issuesdashboard/github/GithubClient$MetricsInterceptor.class
